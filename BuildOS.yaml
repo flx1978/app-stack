@@ -8,7 +8,7 @@ spec:
   output:
     to:
       kind: ImageStreamTag
-      name: 'app-stack:latest'
+      name: 'app-stack2:latest'
   postCommit: {}
   resources: {}
   runPolicy: Serial
